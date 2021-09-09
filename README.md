@@ -19,9 +19,9 @@ Download as zip file and add it to your arduino library
 
 CK-013 or you may use your own IR transmitter
 
-DAT: D2 (GPIO 4)
-VCC: 3.3v
-GND: GND
+- DAT: D2 (GPIO 4)
+- VCC: 3.3v
+- GND: GND
 
 ## Homebridge
 
